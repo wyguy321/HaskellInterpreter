@@ -1,0 +1,18 @@
+? /Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/Paths_mp5_scheme.hs
+: hash: e9af743c9fb3b6b25b2520941d6f575491b21d5425634a7c3265519e95320995
+/Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/package.yaml:
+  hash: 925279f3cc5e10b09a5eba5c9cc2621b0d5cf44710c054bc34f485dc8bb3ca35
+/Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/src/Scheme/Eval.hs:
+  hash: 35a8db98f7486b5a6b4f624d7fa2acc25a75f1df7f400fb6a1ad011b48f54423
+/Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/src/Scheme/Core.hs:
+  hash: aa7e583bcc330ff35050e31f1880550ddbbc330cf06fdeebe6b009e4042ed358
+? /Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/cabal_macros.h
+: hash: a37d8a3b2a88013e981be78f08a30566a45d539ab6359d290b4f96fcca845a1b
+/Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/src/Scheme/Parse.hs:
+  hash: 5ac7cc7e5de74192c3da1a1da1826b5e9d09a3c23ed805e61890e7e857c10df4
+/Users/wyattmelin/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+/Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/src/Scheme/Runtime.hs:
+  hash: e331e713111b0c6091d13cb6c086094a7ac2b518aae63112e18c3afa38cfa1ff
+/Users/wyattmelin/Documents/ProgrammingLangaugesAndCompilers/cs421-mp5/mps/mp5-scheme/mp5-scheme.cabal:
+  hash: 2c8037a5c212a080791bb675ca39cb20ea6cf6399110a854de799b45c637b11c
